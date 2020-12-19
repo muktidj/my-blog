@@ -1,14 +1,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>All Posts - Mukti Storytelling</title>
-        <link>http://example.org/posts/</link>
+        <link>https://muktistorytelling.netlify.app/posts/</link>
         <description>All Posts | Mukti Storytelling</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 12 Dec 2020 21:46:37 &#43;0700</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 19 Dec 2020 16:01:19 &#43;0700</lastBuildDate><atom:link href="https://muktistorytelling.netlify.app/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Pekerjaan Sistem Analis</title>
+    <link>https://muktistorytelling.netlify.app/sistem_analis/</link>
+    <pubDate>Sat, 19 Dec 2020 16:01:19 &#43;0700</pubDate>
+    <author>Author</author>
+    <guid>https://muktistorytelling.netlify.app/sistem_analis/</guid>
+    <description><![CDATA[Artikel ini dibuat karena banyak yang menayakan kepada saya tentang pekerjaan Sistem Analis, khususnya teman-teman saya yang memiliki background pendidikan jurusan Sistem Informasi dan suka bertanya-tanya, &ldquo;bagaimana pekerjaan seorang Sistem Analis ketika berada didunia kerja ?&rdquo;. Disini saya akan berbagi cerita tentang pekerjaan saya menjadi seorang Sistem Analis diperusahaan Software House EOA Tech International.
+Sebenarnya teman-teman bisa mengetahui pekerjaan Sistem Analis (atau pekerjaan lainnya) dari job description yang ketika teman-teman melamar sebuah pekerjaan.]]></description>
+</item><item>
     <title>Mendapatkan Pekerjaan Pertama</title>
-    <link>http://example.org/kerjaan_pertama/</link>
+    <link>https://muktistorytelling.netlify.app/kerjaan_pertama/</link>
     <pubDate>Sat, 12 Dec 2020 21:46:37 &#43;0700</pubDate>
     <author>Author</author>
-    <guid>http://example.org/kerjaan_pertama/</guid>
+    <guid>https://muktistorytelling.netlify.app/kerjaan_pertama/</guid>
     <description><![CDATA[Ketika selesai sidang skripsi dan dinyatakan lulus, rasannya meyenangkan sekali. Itu tandannya kita berhasil menyelesaikan tanggung jawab atas kuliah yang kita jalani dan berhak memperoleh gelar menjadi seorang sarjana (semoga bukan jadi sarjana komedi ya).
 Setelah dinyatakan lulus dan menjadi seorang fresh graduate bukan berarti masalah kita selesai, justru disinilah awal dari sebuah masalah yang baru. Banyak mahasiswa yang setelah lulus bingung mau ngapain, saya sempat merasakan situasi tersebut. Mau kerja bingung mau kerja apa.]]></description>
 </item></channel>
