@@ -23,13 +23,13 @@ gitRepo = ""
 # ("sha256", "sha384", "sha512", "md5")
 fingerprint = ""
 #  date format
-dateFormat = "01-02-2020"
+dateFormat = "2006-01-02"
 
     [params.app]
       # optional site title override for the app when added to an iOS home screen or Android launcher
       title = "Mukti"
       # whether to omit favicon resource links
-      noFavicon = false
+      noFavicon = true
       # modern SVG favicon to use in place of older style .png and .ico files
       svgFavicon = ""
       # Android browser theme color
@@ -84,7 +84,7 @@ dateFormat = "01-02-2020"
       # special amount of posts in each section page
       paginate = 20
       # date format (month and day)
-      dateFormat = "01-02"
+      dateFormat = "02-01-2006"
       # amount of RSS pages
       rss = 10
 
@@ -93,7 +93,7 @@ dateFormat = "01-02-2020"
       # special amount of posts in each list page
       paginate = 20
       # date format (month and day)
-      dateFormat = "01-02"
+      dateFormat = "02-01-2006"
       # amount of RSS pages
       rss = 10
 
@@ -109,15 +109,15 @@ dateFormat = "01-02-2020"
         # URL of avatar shown in home page
         avatarURL = "/images/mukti.png"
         #  title shown in home page (HTML format is supported)
-        title = "System Analyst, Part Time Blogger"
+        title = "System Analyst, Part Time Trader, Part Time Blogger"
         # subtitle shown in home page
         subtitle = "Let's talk about Work, Football, Finance, Web, and Life"
         # whether to use typeit animation for subtitle
-        typeit = true
+        typeit = false
         # whether to show social links
         social = true
         #  disclaimer (HTML format is supported)
-        disclaimer = ""
+        disclaimer = "Kenalan dulu ya, saya Mukti Dwi Jatmoko. Sekarang bekerja sebagai System analyst dan merangkap menjadi Project Manager beginner di eoa tech, salah satu entitas divisi IT dari eoagold yang bergerak dibidang logam mulia. Sehari-hari pekerjaan saya adalah membantu peradaban eoa dalam membuat aplikasi yang dapat mempercepat proses bisnis mereka. Harapannya membuat sebuah blog ini, agar ilmu yang saya punya dan pengalaman sehari-hari dalam kerjaan, kehidupan dan lain-lain bisa menjadi sebuah solusi , inspirasi, wawasan baru buat pembaca. Enjoy :)"
 
       # Home page posts
       [params.home.posts]
@@ -375,6 +375,7 @@ dateFormat = "01-02-2020"
     url = "/categories/"
     title = ""
     weight = 3
+
 
 # Markup related configuration in Hugo
 [markup]
