@@ -7,7 +7,7 @@ Setiap orang harus mengerti tentang keuangan, harus mengerti tentang perencanaan
 
 Harus mulai dari mana dulu ? ya kita harus mengetahui tentang ***Finacial Planning Pyramid***
 
-{{<image src="https://lh3.googleusercontent.com/WsoywjlqADooO3K1Nql9SJ5WcSYbtMA-ZJUjZsvS1vcINaZxt-PYXfgqkF6ep9zGXrHlBwB_1-zpjr5Dje538p3VOv9nsQ93pCXUNP94ieDD4MhP0agFfqU9uTyx2h2RoaQOi9UO7PWNz5CDQ0fyAK_ecej_DyO-a-3uyh4GHU4fWIDJQBdsPoPYiEKSKTJPdNoOVNdukVECnj03lTfGOk6KLu7bm4yOtLcJ9ZQrcKbZHokO60ioMt-NxbG2sMoH-cY8C6ERZ35dfE_gIPhfQVF-Q8SvhOOHv61tHA-UWneiv30gys17ScCpU9onx1ZOJHMEdnBYT7o4oQ_BB2N-_LLjO2YqRj61f53cLH86NrED2eqasaePbAUZ6XM1wSitSkPgt7HMIb4ERYRlhNj9a3PwOyYtpXTybiNvfUa4bjzOlZ_YQip2b5xzE7SSm8sZtkwxEw-fufT19ZKkbViJdtIMI-nEXfSyxk6zW72XixO1kIA0fSjf6vyZzcAgsfFp_1yugjZRz7m9nlY7K-m-xLjWQRfEyTs7Qgmo7_JhICZQ0v6RP6XyTNP2X7eluiZ_z7owvx8Vi54x2RaNApPfCzqro7d4pEMm10lNfyKSmw58IsfmJTSWmE0tkyWpkIRl9TDW3TNWcPuoTiBHCVc88ZFu-tNl8fqvGFv56Oi09aMcHp4q2gN7z6DUcXk8Bzd5oFcQ6IJw5OC_3O7T1CxgQ9hgWg=w1508-h666-no?authuser=0">}}
+{{<image src="https://lh3.googleusercontent.com/pw/AM-JKLXm4afrItS997BD6XrAepoEdFaL0VSX_dqujsP4YPdfAcnthZib0fIvXbOfJ0Eqp4UzDHbLZvzMtXSGZ2YkXyT7Szr2RP-DMqxdotc4hRAUgWlfDIpycfzWgfrVHD7KcZ4EbDenjBfVntq0Awh00K0E6g=w1508-h666-no?authuser=0">}}
 
 yang paling dasar, itu ada **Cash Flow** saya sudah pernah menjelaskan di artikel saya yang berjudul {{<link href="https://muktistorytelling.netlify.app/mencatat_pengluaran_sehari2/" content=CashFlow title="Cash Flow">}}
 
