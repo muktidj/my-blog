@@ -3,9 +3,17 @@
         <title>Mukti Storytelling</title>
         <link>https://muktistorytelling.netlify.app/</link>
         <description>Segala hal yang pernah saya lakukan dan ketahui akan saya ceritakan disini</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 14 May 2021 10:49:12 &#43;0700</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 19 Oct 2021 20:49:44 &#43;0700</lastBuildDate>
             <atom:link href="https://muktistorytelling.netlify.app/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Pengalaman Satu Tahun Bekerja</title>
+    <link>https://muktistorytelling.netlify.app/satu_tahun_bekerja/</link>
+    <pubDate>Tue, 19 Oct 2021 20:49:44 &#43;0700</pubDate>
+    <author>Author</author>
+    <guid>https://muktistorytelling.netlify.app/satu_tahun_bekerja/</guid>
+    <description><![CDATA[Rasannya sudah lama sekali saya tidak membuat tulisan di blog, ya karena habis mengganti laptop dari windows ke MacBook 😎 membuat malas mengatur environment Static Site Generator ini.
+Oke kembali ke judul, Pengalaman Satu Tahun Bekerja. Bulan November nanti saya sudah 1 tahun bekerja di perusahaan Software House, EOA Tech International. Banyak cerita dan pengalaman selama saya bekerja disana. Sebelumnya, saya ingin ucapkan terima kasih ke Pak Rony, beliau adalah CTO EOA Tech International &amp; CEO dari Ngampooz, yang menawarkan saya bekerja menjadi Sistem Analis di EOA Tech International.]]></description>
+</item><item>
     <title>Belajar Bahasa Asing</title>
     <link>https://muktistorytelling.netlify.app/belajar_bahasa_italia/</link>
     <pubDate>Fri, 14 May 2021 10:49:12 &#43;0700</pubDate>
