@@ -3,6 +3,7 @@ title: "Berkenalan dengan Financial Asset dan Real asset"
 date: 2021-11-13T21:11:58+07:00
 draft: false
 description: "Memahami Finacial Asset dan Real Asset"
+author: "Mukti Dwi Jatmoko"
 tags: ["Finance", "Life"]
 categories: ["Finance"]
 ---
